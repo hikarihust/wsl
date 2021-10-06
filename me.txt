@@ -1,4 +1,5 @@
 Giới thiệu và cài đặt WSL trên Windows
 Cài LAMP (Linux Apache MySQL PHP) + Wordpress trên Windows với WSL
 Cài đặt MySQL Workbench, quản lý MySQL Server trên WSL
+Cài đặt NodeJS trên WSL tạo ứng dụng ExpressJS
     
